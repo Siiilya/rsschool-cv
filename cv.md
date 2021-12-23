@@ -2,7 +2,7 @@
 
 ---
 
-## Contacts
+## **Contacts**
 
 ---
 
@@ -18,17 +18,21 @@ Just i want write JS-script.
 
 
 ## Skils
-* At the university I studied Pascal.
+At the university I studied Pascal.
 
 
 ## Code Example
-`function multiply(a, b){
+```function multiply(a, b){
   a * b
-}`
+}
+```
+
+
 ## Project
-* No Project
+[Markdown & Git](https://github.com/Siiilya/rsschool-cv.git)
+
 
 
 # Education
-* Belarusian National Technical University
-+  Engineer Vacuum and compressor technology
+**Belarusian National Technical University**
+    - Engineer Vacuum and compressor technology
