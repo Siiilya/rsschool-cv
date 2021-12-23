@@ -22,7 +22,8 @@ At the university I studied Pascal.
 
 
 ## Code Example
-```function multiply(a, b){
+```
+function multiply(a, b){
   a * b
 }
 ```
