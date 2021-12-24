@@ -16,7 +16,7 @@
 
 ## About Me
 
-    In childhood i had computer on MS-DOS and i liked write commands (cd, md, dir, et al.)
+In childhood i had computer on MS-DOS and i liked write commands (cd, md, dir, et al.)
 
 Just i want write JS-script.
 
