@@ -4,7 +4,6 @@
 
 ## **Contacts**
 
----
 
 - **Location:** Minsk, Belarus
 - **Phone:** +375293183957
