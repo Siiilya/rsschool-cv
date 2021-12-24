@@ -19,7 +19,7 @@ In childhood i had computer on MS-DOS and i liked write commands (cd, md, dir, e
 
 Just i want write JS-script.
 
-## Skils
+## Skills
 
 At the university I studied Pascal.
 
