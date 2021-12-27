@@ -1,0 +1,36 @@
+.text-block{
+    background-color: blue;
+}
+
+.info {
+  color: #FF2D00;
+}
+
+<style>
+p {
+  font-size: 40px;
+}
+</style>
+
+<style>
+  .bold-text {
+    font: bold 24px Verdana: sans-serif;
+  }
+</style>
+
+<p class="bold-text">knkKLJKKJKJ</p>
+
+
+
+
+
+
+<style>
+.border {
+  border-style: 1px color red;
+}
+</style>
+
+
+
+<p class="border" id="no-border">vfdvfdvfdbfd</p>
